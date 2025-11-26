@@ -17,11 +17,11 @@ Outside school, I love exploring new technologies, languages and patterns. Some 
 ## <p align="center" style="color:#58a6ff;">GitHub Activity</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunnickel&hide=stars,issues&show_icons=true&theme=dark&rank_icon=github&hide_title=true&card_width=600" alt="GitHub Stats" style="border-radius:12px; max-width:100%;">
+  <img src="https://readme-stats-alpha-ten.vercel.app/api?username=sunnickel&hide=stars,issues&show_icons=true&theme=dark&rank_icon=github&hide_title=true&card_width=600" alt="GitHub Stats" style="border-radius:12px; max-width:100%;">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnickel&theme=dark&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5&card_width=600" alt="Top Languages" style="border-radius:12px; max-width:100%;">
+  <img src="https://readme-stats-alpha-ten.vercel.app/api/top-langs/?username=Sunnickel&theme=dark&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5&card_width=600" alt="Top Languages" style="border-radius:12px; max-width:100%;">
 </p>
 
 ---
@@ -30,16 +30,16 @@ Outside school, I love exploring new technologies, languages and patterns. Some 
 
 <p align="center">
   <a href="https://github.com/Sunnickel/QEM-Rust">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnickel&repo=QEM-Rust&description_lines_count=1&theme=dark" alt="QEM-Rust" style="border-radius:12px; max-width:100%; margin:5px;">
+    <img src="https://readme-stats-alpha-ten.vercel.app/api/pin/?username=Sunnickel&repo=QEM-Rust&description_lines_count=1&theme=dark" alt="QEM-Rust" style="border-radius:12px; max-width:100%; margin:5px;">
   </a>
   <a href="https://github.com/Sunnickel/SunWeb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sunnickel&repo=SunWeb&description_lines_count=1&theme=dark" alt="SunWeb" style="border-radius:12px; max-width:100%; margin:5px;">
+    <img src="https://readme-stats-alpha-ten.vercel.app/api/pin/?username=Sunnickel&repo=SunWeb&description_lines_count=1&theme=dark" alt="SunWeb" style="border-radius:12px; max-width:100%; margin:5px;">
   </a>
   <a href="https://github.com/ferrumc-rs/ferrumc">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ferrumc-rs&repo=ferrumc&show_owner=true&description_lines_count=1&theme=dark" alt="Ferrumc" style="border-radius:12px; max-width:100%; margin:5px;">
+    <img src="https://readme-stats-alpha-ten.vercel.app/api/pin/?username=ferrumc-rs&repo=ferrumc&show_owner=true&description_lines_count=1&theme=dark" alt="Ferrumc" style="border-radius:12px; max-width:100%; margin:5px;">
   </a>
   <a href="https://github.com/MyFairOrganization/MyFairPipe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MyFairOrganization&repo=MyFairPipe&description_lines_count=1&theme=dark" alt="MyFairPipe" style="border-radius:12px; max-width:100%; margin:5px;">
+    <img src="https://readme-stats-alpha-ten.vercel.app/api/pin/?username=MyFairOrganization&repo=MyFairPipe&description_lines_count=1&theme=dark" alt="MyFairPipe" style="border-radius:12px; max-width:100%; margin:5px;">
   </a>
 </p>
 
