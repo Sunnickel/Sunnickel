@@ -35,9 +35,6 @@ Outside school, I love exploring new technologies, languages and patterns. Some 
   <a href="https://github.com/Sunnickel/SunWeb">
     <img src="https://readme-stats-two-sable.vercel.app/api/pin/?username=Sunnickel&repo=SunWeb&description_lines_count=1&theme=dark" alt="SunWeb" style="border-radius:12px; max-width:100%; margin:5px;">
   </a>
-  <a href="https://github.com/ferrumc-rs/ferrumc">
-    <img src="https://readme-stats-two-sable.vercel.app/api/pin/?username=ferrumc-rs&repo=ferrumc&show_owner=true&description_lines_count=1&theme=dark" alt="Ferrumc" style="border-radius:12px; max-width:100%; margin:5px;">
-  </a>
   <a href="https://github.com/MyFairOrganization/MyFairPipe">
     <img src="https://readme-stats-two-sable.vercel.app/api/pin/?username=MyFairOrganization&repo=MyFairPipe&description_lines_count=1&theme=dark" alt="MyFairPipe" style="border-radius:12px; max-width:100%; margin:5px;">
   </a>
