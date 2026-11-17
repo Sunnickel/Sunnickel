@@ -9,6 +9,8 @@
 <p align="center" style="max-width:700px; margin:0 auto; color:#c9d1d9; line-height:1.6;">
 I'm currently a Computer Science student learning about way too many things, currently Vue.js, Symfony and Oracle DB.  
 Outside school, I love exploring new technologies, languages and patterns. Some of them I'm proficient in, others I’m still mastering.
+<br>
+I use void linux btw
 </p>
 
 
@@ -22,25 +24,6 @@ Outside school, I love exploring new technologies, languages and patterns. Some 
 
 <p align="center">
   <img src="https://readme-stats-two-sable.vercel.app/api/top-langs/?username=Sunnickel&theme=dark&layout=compact&hide_title=true&size_weight=0.5&count_weight=0.5&card_width=600" alt="Top Languages" style="border-radius:12px; max-width:100%;">
-</p>
-
----
-
-## <p align="center" style="color:#58a6ff;">Current Projects</p>
-
-<p align="center">
-  <a href="https://github.com/Sunnickel/QEM-Rust">
-    <img src="https://readme-stats-two-sable.vercel.app/api/pin/?username=Sunnickel&repo=QEM-Rust&description_lines_count=1&theme=dark" alt="QEM-Rust" style="border-radius:12px; max-width:100%; margin:5px;">
-  </a>
-  <a href="https://github.com/Sunnickel/SunWeb">
-    <img src="https://readme-stats-two-sable.vercel.app/api/pin/?username=Sunnickel&repo=SunWeb&description_lines_count=1&theme=dark" alt="SunWeb" style="border-radius:12px; max-width:100%; margin:5px;">
-  </a>
-  <a href="https://github.com/MyFairOrganization/MyFairPipe">
-    <img src="https://readme-stats-two-sable.vercel.app/api/pin/?username=MyFairOrganization&repo=MyFairPipe&description_lines_count=1&theme=dark" alt="MyFairPipe" style="border-radius:12px; max-width:100%; margin:5px;">
-  </a>
-  <a href="https://github.com/Sunnickel/small-os">
-    <img src="https://readme-stats-two-sable.vercel.app/api/pin/?username=Sunnickel&repo=small-os&description_lines_count=1&theme=dark" alt="small-os" style="border-radius:12px; max-width:100%; margin:5px;">
-  </a>
 </p>
 
 ---
